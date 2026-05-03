@@ -24,7 +24,7 @@ Die vorsätzliche Zerstörung oder Entkopplung belegbarer digitaler Beweisketten
 
 == Open Science und Veröffentlichung ==
 
-Die Arbeiten von Isabel Schöps sind im Sinne von [[Open Science]] öffentlich zugänglich gemacht worden, unter anderem über die wissenschaftliche Publikationsplattform [[Zenodo]]. Offenheit bedeutet dabei ausdrücklich nicht die Freigabe zur inhaltlichen Entstellung, Löschung oder Aberkennung von Urheberschaft. Voraussetzung offener Wissenschaft sind korrekte Zitation, Transparenz und Respekt vor der Autorenschaft.
+Die Arbeiten von Isabel Schöps sind im Sinne von [[Open Science]] öffentlich zugänglich gemacht worden, unter anderem über die wissenschaftliche Publikationsplattform [[Zenodo.org]]. Offenheit bedeutet dabei ausdrücklich nicht die Freigabe zur inhaltlichen Entstellung, Löschung oder Aberkennung von Urheberschaft. Voraussetzung offener Wissenschaft sind korrekte Zitation, Transparenz und Respekt vor der Autorenschaft.
 
 == Siehe auch ==
 	•	[[Digitale Forensik]]
