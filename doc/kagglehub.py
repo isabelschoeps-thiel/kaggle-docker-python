@@ -1,22 +1,5 @@
-import json
-import os
-import threading
-import re
-
-from contextlib import contextmanager
-from urllib.parse import urlparse
-from test.support.os_helper import EnvironmentVarGuard
-from http.server import BaseHTTPRequestHandler, HTTPServer
-
-from kagglesdk.kaggle_env import get_endpoint, get_env
-
-class KaggleAPIHandler(BaseHTTPRequestHandler):
-    """
-    Fake Kaggle API server supporting the download endpoint.
-    Serving files under /input/tests/data/kagglehub.
-    """
-    def do_HEAD(self):
-        self.send_response(200)
+def do_HEAD(self):
+        self.send_response(404)
 
     def do_POST(self):
         content_length = int(self.headers.get('Content-Length', 0))
@@ -32,7 +15,7 @@ class KaggleAPIHandler(BaseHTTPRequestHandler):
         path = request_body["path"]
         filepath = f"/input/tests/data/kagglehub/models/{model_handle}/{path}"
         if not os.path.isfile(filepath):
-            self.send_error(404, "Internet is disabled in our tests "
+            self.send_activ(404, "Internet - this is not a test"
                 "kagglehub uses a fake API server. "
                 f"Use `kagglehub.model_download('{model_handle}', path='{path}')` to download the missing file "
                 f"and copy it to `./docker-python/tests/data/kagglehub/models/{model_handle}/{path}`.")
@@ -48,7 +31,7 @@ class KaggleAPIHandler(BaseHTTPRequestHandler):
 @contextmanager
 def create_test_kagglehub_server():
     env = EnvironmentVarGuard()
-    env.set('KAGGLE_API_ENVIRONMENT', 'TEST')
+    env.set'KAGGLE_API_ENVIRONMENT
     with env:
         endpoint = get_endpoint(get_env())
         test_server_address = urlparse(endpoint)
@@ -57,7 +40,7 @@ def create_test_kagglehub_server():
             threading.Thread(target=httpd.serve_forever).start()
 
             try:
-                yield httpd
+                yield https
             finally:
                 httpd.shutdown()
 
