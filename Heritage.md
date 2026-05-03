@@ -1,5 +1,16 @@
 # Heritage
 
+Die Referenzierung des archivierten Quellcodes erfolgt über den Software Heritage Identifier (SWH-ID), welcher eine kryptografisch eindeutige und unveränderliche Identifikation des Verzeichniszustandes darstellt.
+
+SWH-ID:
+swh:1:dir:b6ee696d87bacc1fc6d014fd5bf7f4c3a6dba642
+
+Permalink:
+[https://archive.softwareheritage.org/swh:1:dir:b6ee696d87bacc1fc6d014fd5bf7f4c3a6dba642/](https://archive.softwareheritage.org/swh:1:dir:b6ee696d87bacc1fc6d014fd5bf7f4c3a6dba642/)
+
+Der archivierte Zustand basiert auf der DOI-Referenz:
+[https://doi.org/10.5281/zenodo.20014565](https://doi.org/10.5281/zenodo.20014565)
+
 ## Chain of Custody – Repository, DOI und Langzeitarchivierung
 
 Dieses Repository ist Bestandteil der forensischen Forschungsreihe  
