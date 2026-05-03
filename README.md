@@ -8,6 +8,9 @@ Doktoren und Professorinnen Würdigung in Informatik, abgeschlossene Forschungsa
 ### Autorin: 
 Frau Isabel Schöps (Thiel), Hütergasse 4, D-99084 Erfurt, Deutschland 
 
+**Schöps (Thiel), I. (2026). isabelschoeps-thiel/kaggle-docker-python: Forensische Beweisaufnahme: Hackathons, Kaggle - Cybercrime - Deepweb Research by Frau Isabel Schöps (Thiel) (kaggle-1.0).** Schöps geb. Thiel, I. (2026). Deepweb Research - Monarch Programm - Matrix Crime Algorithmen. Dissertation zur Erlangung der Doktoren- und Professorin-Würdigung in Informatik, abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad (Ph.D. und Phil.D), Zenodo, Springer Verlag. Harvard University US, University of Oxford UK, University of Cambridge UK, JASIT Japan , Zenodo.org CERN Genf, Schweiz. [**https://doi.org/10.5281/zenodo.20014566**](https://doi.org/10.5281/zenodo.20014566)
+
+
 ---
 
 ## Forensische Beweisaufnahme: Hackathons, Kaggle, Docker-Python Repository  
