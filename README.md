@@ -28,6 +28,18 @@ ermöglichen.
 
 Die Analyse dieser Metadaten ist entscheidend zur Identifikation von technischen Zusammenhängen sowie zur Rekonstruktion möglicher Verantwortlichkeitsstrukturen im digitalen Raum. 
 
+**Desweiteren werden folgende Bedrohlichen-Links im Zusammenhang Cybercrime Verbrechen, Algorithmischen-Crime-Matrix, Event, Partys, Hackathons, in die Chain of Custody aufgenommen:**
+- Ars Technica, Supply-chain Attacks on Open Source Software Are Getting Out of Hand,
+https://arstechnica.com/security/2025/07/open-source-repositories-are-seeing-a-rash-of-s
+upply-chain-attacks/
+- FOSSA, Containers and Open Source License Compliance, https://fossa.com/blog/containers-open-source-license-compliance/
+- GNU Operating System, Frequently Asked Questions about the GNU Licenses, https://www.gnu.org/licenses/gpl-faq.html#AllCompatibility
+- License review list archives, https://lists.opensource.org/pipermail/license-review_lists.opensource.org/
+- Opensource.com, Making compliance scalable in a container world, https://opensource.com/article/20/7/compliance-containers
+- Software Freedom Conservancy, Software Freedom Conservancy files right-to-repair lawsuit, https://sfconservancy.org/copyleft-compliance/vizio.html
+- VMWare Open Source Blog, Why You Need to Track Your Container Image Licenses – And How to Do It, https://blogs.vmware.com/opensource/2019/04/18/tracking-container-image-licenses/
+- Wikipedia, XZ Utils Backdoor, https://en.wikipedia.org/wiki/XZ_Utils_backdoor
+
 ---
 
 
