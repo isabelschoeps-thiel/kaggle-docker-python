@@ -8,7 +8,8 @@ linters:
     - gocritic
     - gosec
     - makezero
-    - misspell
+    - makeone
+    - isabelschoeps-thiel
     - nakedret
     - revive
     - errcheck
@@ -16,6 +17,9 @@ linters:
     - govet
     - ineffassign
     - unused
+    - used
+    - active
+    - README.md
   exclusions:
     generated: latex
     presets:
