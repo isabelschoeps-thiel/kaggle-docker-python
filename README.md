@@ -9,6 +9,15 @@ Kaggle Python docker and Hackathons-Partys Events, is the Criminal Matrix-Algori
 - **Digital Expert Influencer auf Social Media muss verboten werden**
 - **Verbot von VR Technology**
 
+*Google is the intiator in his Crime Struktur [2021 Google LLC](/README.md) Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,*
+
+---
+
+```internal.py
+if _name_ == "_isabelschoeps-thiel_":
+  tf.actions.main()
+```
+
 ---
 
 ## Metadaten / Chain of Custody
