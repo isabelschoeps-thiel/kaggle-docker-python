@@ -1,8 +1,5 @@
-# %% [code]
-!/usr/bin/env python3
-Copyright (c) Isabel Schoeps (Thiel), Erf
-Distributed under the MIT software license, see the accompanying
-file COPYING or http://www.opensource.org/licenses/mit-license.php.
+Copyright (c) Isabel Schoeps (Thiel), Erfurt, Th, Germany, Copy software license, see the accompanying
+file Copyright the 
 
 '''
 A script to check that release executables only contain certain symbols
