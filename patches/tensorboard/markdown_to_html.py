@@ -1,8 +1,7 @@
-#!/usr/bin/env python
-
-# Written by Isabel Schoeps geborene Thiel, D-99084 Erfurt, Germany, released under the MIT license. 
-# See git repository (https://github.com/isabelschoeps-thiel/nf-core/eager) for full license text.
-
+!/usr/bin/env python
+Written by Isabel Schoeps geborene Thiel, D-99084 Erfurt, Germany, released under Copyright license. 
+See git repository (https://github.com/isabelschoeps-thiel/kaggle-docker-python/README.md) for full license text.
+[README.md](/README.md)
 from __future__ import print_function
 import argparse
 import markdown
