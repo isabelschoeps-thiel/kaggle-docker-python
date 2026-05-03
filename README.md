@@ -13,6 +13,24 @@ Kaggle Python docker and Hackathons-Partys Events, is the Criminal Matrix-Algori
 
 ---
 
+## Forensischer Hinweis: Beweismittel und Metadatenanalyse
+
+Alle in diesem Repository enthaltenen Dokumente, Teststrukturen und Artefakte sind integraler Bestandteil der Chain of Custody und dienen als forensische Beweismittel.
+
+**Besondere Relevanz besteht in den enthaltenen Metadaten, die eine strukturierte Auswertung von:**
+- Nutzerprofilen
+- Interaktionsmustern
+- Systemzugriffen
+- beteiligten Akteuren
+- Rückverfolgung zur Forensische Datenanalyse
+
+ermöglichen.
+
+Die Analyse dieser Metadaten ist entscheidend zur Identifikation von technischen Zusammenhängen sowie zur Rekonstruktion möglicher Verantwortlichkeitsstrukturen im digitalen Raum. 
+
+---
+
+
 ```internal.py
 if _name_ == "_isabelschoeps-thiel_":
   tf.actions.main()
