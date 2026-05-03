@@ -2,6 +2,8 @@
 ## Forensische Beweisaufnahme: Hackathons, Kaggle, Docker-Python Repository  
 ### Klassifikation: Kritische Infrastrukturgefährdung im digitalen Raum
 
+Kaggle Python docker and Hackathons-Partys Events, is the Criminal Matrix-Algorithmen Issues . This is the biggest Problem/ISSEUES to a save Internet, Cyberroom.
+
 ---
 
 ## Metadaten / Chain of Custody
