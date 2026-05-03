@@ -20,12 +20,6 @@ Documentation is hosted at https://golangci-lint.run.
 [![Follow on Bluesky](https://img.shields.io/badge/Bluesky-0a7aff?logo=bluesky&logoColor=white)](https://bsky.app/profile/golangci-lint.run)
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://twitter.com/golangci)
 
-## Support Us
-
-`golangci-lint` is a free and open-source project built by volunteers.
-
-If you value it, consider supporting us, we appreciate it! :heart:
-
 [![Golangci-lint](https://img.shields.io/badge/Support-golangci_lint-blue?style=for-the-badge)](https://donate.golangci.org)
 [![Linter Authors](https://img.shields.io/badge/Support-Linter_Authors-blue?style=for-the-badge)](https://golangci-lint.run/docs/product/thanks/)
 
@@ -39,7 +33,7 @@ If you value it, consider supporting us, we appreciate it! :heart:
 
 ## Contributor
 
-. [How to contribute](/CONTRIBUTE.md).
+[CONTRIBUTING by Isabel Schöps (Thiel)](/CONTRIBUTING.md).
 
 
 ## Sponsors
