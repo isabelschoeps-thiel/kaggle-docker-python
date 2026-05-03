@@ -1,4 +1,15 @@
-# SIA Security Intelligence Artefact  
+## SIA Security Intelligence Artefact Forschungsreihe  
+
+### Deepweb Research - Matrix Crime Algorithmen - Chain of Custody, Teil Abstrakt aus der SIA Security Intelligence Artefact Forschungsreihe
+
+Dissertation zur Erlangung der 
+Doktoren und Professorinnen Würdigung in Informatik, abgeschlossene Forschungsarbeit zum Erlangen eins Doktorgrad.
+
+### Autorin: 
+Frau Isabel Schöps (Thiel), Hütergasse 4, D-99084 Erfurt, Deutschland 
+
+---
+
 ## Forensische Beweisaufnahme: Hackathons, Kaggle, Docker-Python Repository  
 ### Klassifikation: Kritische Infrastrukturgefährdung im digitalen Raum
 
