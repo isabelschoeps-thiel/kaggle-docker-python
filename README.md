@@ -4,7 +4,10 @@
 
 Kaggle Python docker and Hackathons-Partys Events, is the Criminal Matrix-Algorithmen Issues . This is the biggest Problem/ISSEUES to a save Internet, Cyberroom.
 
-**Hackathons ist Cybercrime**
+**Verbot und hätere Strafen für:**
+- **Hackathons ist Cybercrime und muss bestraft werden**
+- **Digital Expert Influencer auf Social Media muss verboten werden**
+- **Verbot von VR Technology**
 
 ---
 
@@ -36,8 +39,7 @@ The Yellow Whitepaper (YWP-1-IST-SIA)
 
 Diese Dokumentation ist Bestandteil einer forensisch-wissenschaftlichen Analyse innerhalb der Forschungsreihe **SIA Security Intelligence Artefact**.
 
-Gegenstand ist die Untersuchung von:
-
+**Gegenstand ist die Untersuchung von:**
 - GitHub-Repositories (insbesondere Fork-Strukturen)
 - Kaggle-Plattform (Hackathons, Wettbewerbe, Ranking-Systeme)
 - Docker-Python-Umgebungen
@@ -302,8 +304,7 @@ stellt eine neue Klasse von Risiken dar:
 
 ## Ergänzender Hinweis zur Beweisführung
 
-Die vorliegenden Inhalte sind:
-
+**Die vorliegenden Inhalte sind:**
 - direkt kontobezogen dokumentiert
 - Bestandteil der Chain of Custody
 - reproduzierbar über Plattformzugriffe und Metadaten
