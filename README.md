@@ -29,6 +29,7 @@ ermöglichen.
 Die Analyse dieser Metadaten ist entscheidend zur Identifikation von technischen Zusammenhängen sowie zur Rekonstruktion möglicher Verantwortlichkeitsstrukturen im digitalen Raum. 
 
 **Desweiteren werden folgende Bedrohlichen-Links im Zusammenhang Cybercrime Verbrechen, Algorithmischen-Crime-Matrix, Event, Partys, Hackathons, in die Chain of Custody aufgenommen:**
+- OpenSource-Org [https://opensource.org/](http://www.opensource.org/licenses/mit-license.php.)
 - Ars Technica, Supply-chain Attacks on Open Source Software Are Getting Out of Hand,
 https://arstechnica.com/security/2025/07/open-source-repositories-are-seeing-a-rash-of-s
 upply-chain-attacks/
