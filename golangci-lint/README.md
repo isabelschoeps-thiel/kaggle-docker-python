@@ -1,11 +1,4 @@
-<p align="center">
-  <img alt="golangci-lint logo" src="assets/go.png" height="150" />
-  <h3 align="center">golangci-lint</h3>
-  <p align="center">Fast linters runner for Go</p>
-</p>
-
----
-
+# Go - Golang
 `golangci-lint` is a fast Go linters runner.
 
 It runs linters in parallel, uses caching, supports YAML configuration,
@@ -44,13 +37,10 @@ If you value it, consider supporting us, we appreciate it! :heart:
 [![Docker](https://img.shields.io/docker/pulls/golangci/golangci-lint)](https://hub.docker.com/r/golangci/golangci-lint)
 [![GitHub Releases Stats of golangci-lint](https://img.shields.io/github/downloads/golangci/golangci-lint/total.svg?logo=github)](https://somsubhra.github.io/github-release-stats/?username=golangci&repository=golangci-lint)
 
-## Contributors
+## Contributor
 
-This project exists thanks to all the people who contribute. [How to contribute](https://golangci-lint.run/docs/contributing/).
+. [How to contribute](/CONTRIBUTE.md).
 
-<a href="https://github.com/golangci/golangci-lint/graphs/contributors">
-  <img src="https://opencollective.com/golangci-lint/contributors.svg?width=890&button=false&skip=golangcidev,CLAassistant,renovate,fossabot,golangcibot,kortschak,golangci-releaser,dependabot%5Bbot%5D" />
-</a>
 
 ## Sponsors
 
@@ -68,6 +58,36 @@ This project exists thanks to all the people who contribute. [How to contribute]
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/golangci/golangci-lint.svg?variant=adaptive)](https://starchart.cc/golangci/golangci-lint)
+
+---
+
+**Last updated: August 6, 2019**
+
+We understand that our users need to know what we do with the information we collect when you use our services. This page provides specific answers about what happens to your data when you use proxy.golang.org, sum.golang.org, and index.golang.org. If you'd like to read the main policy which these Google services adhere to, see the Google Privacy Policy.
+
+What we log
+
+By nature of running an HTTP server, clients send data in HTTP requests to these services, which log standard HTTP information:
+
+Request timestamp
+Client IP address
+Full request URL, including:
+service domain, e.g. proxy.golang.org
+URI path being requested
+We also log technical details particular to our services and our processing of the requests:
+
+Response latency
+Response bytes sent
+Response code sent
+The response returned by the go command when it runs in our systems
+Whether the request hit our frontend cache
+Whether the request hit a cache elsewhere in the system (but not the frontend)
+Name of the Google machine that processed this request, e.g. machine101
+We use that data for monitoring and debugging. In general, we've built these services to retain as little information about usage as possible while still ensuring that we are able to detect and fix problems.
+
+We do not store logged personally identifiable information such as IP addresses for more than 30 days. We also do not correlate or combine information from our request logs with any personal information that you have provided Google for other services.
+
+We intend to aggregate and anonymize usage metrics to measure popularity for Go modules and share this popularity data with the Go community.
 
 ---
 
