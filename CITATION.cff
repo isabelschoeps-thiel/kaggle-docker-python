@@ -1,9 +1,9 @@
-cff-version: 1.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: Schöps (Thiel)
   given-names: Isabel
 orcid: https://orcid.org/0009-0003-4235-2231
-title:isabelschoeps-thiel/kaggle-docker-python/ Matrix Algorithmen Crime, Research Meta Abstrakt by Isabel Schöps (Thiel)
-version: 
-date-released: 2026-
+title:isabelschoeps-thiel/kaggle-docker-python: Forensische Beweisaufnahme: Hackathons, Kaggle - Cybercrime - Deepweb Research by Frau Isabel Schöps (Thiel)
+version: kaggle-1.0
+date-released: 2026-05-03
